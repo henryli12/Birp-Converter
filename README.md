@@ -11,7 +11,7 @@ a previous compilation.
 
 ## Running Program
 
-Executing `bin/birp` will the the program.
+Executing `bin/birp` will run the program.
 
 Here is a detailed usage of `bin/birp`:
 <pre>
