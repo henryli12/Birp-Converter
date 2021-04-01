@@ -1,5 +1,5 @@
 # Birp-Converter
-A tool thet convert image data between the PGM ("Portable Gray Map") format and a non-standard birp format that represents 
+A tool that convert image data between the PGM ("Portable Gray Map") format and a non-standard birp format that represents 
 the pixel rasters using a variant of a data structure called binary decision diagrams (BDDs).
 
 ## Compiling
